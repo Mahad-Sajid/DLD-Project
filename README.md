@@ -3,7 +3,7 @@
 This project implements a Stack(LIFO) using LogicWorks.
 
 ## Files
-- circuit/queue.cct → Circuit file
+- circuit/modified Stack.cct → Circuit file
 - report/report.pdf → Project report
 
 ## Software Used
